@@ -8,6 +8,6 @@ Luckily that's not me, but probably how I'll feel more than once in the next wee
 
 ## Some of my favorite records:
 - [Bon Iver - Bon Iver](https://open.spotify.com/intl-de/album/3JKDDYSBFozqcjWwSV3Yj3?si=2eZD2CarSDmGccDq8J32RA)
-- La Dispute - Wildlife
-- Turnover - Peripheral Vision
-- Ben Howard - Every Kingdom
+- [La Dispute - Wildlife](https://open.spotify.com/intl-de/album/4BDDKxyTMgE1UZh7Wzdx28?si=UNKewNGXRq6Hae-ybXS7_g)
+- [Turnover - Peripheral Vision](https://open.spotify.com/intl-de/album/5On8s1irA6JETiDvt2VUy7?si=I2vS96f4Sjq-VUogh7KBaQ)
+- [Ben Howard - Every Kingdom](https://open.spotify.com/intl-de/album/57PgT4iuDurzlJnkYjrpce?si=kTukYB6mQCyn1PWntc7l6Q)
