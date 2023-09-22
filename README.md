@@ -8,5 +8,4 @@ Luckily that's not me but probably how I'll feel more than once in the next week
 
 
 
-Bon Iver -Perth
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/2LDJsxlUrJoIjblb6lVPW4?si=6b4fbb3de9b34ae2)
