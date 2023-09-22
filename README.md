@@ -7,5 +7,5 @@ I'm **Lennart**, most people call me Lenni, and besides mountainbiking and music
 Luckily that's not me but probably how I'll feel more than once in the next weeks, months or even years of diving deeper into coding.
 
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2LDJsxlUrJoIjblb6lVPW4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
