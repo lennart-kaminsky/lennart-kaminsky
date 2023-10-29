@@ -1,4 +1,4 @@
-# Hej and welcome! 🤙
+# Hej and welcome! 
 
 I'm **Lennart**, most people call me Lenni, and besides mountainbiking and music I really enjoy exploring the world of web development.
 
@@ -8,4 +8,4 @@ I'm **Lennart**, most people call me Lenni, and besides mountainbiking and music
 [![Lennarts GitHub stats](https://github-readme-stats.vercel.app/api?username=lennart-kaminsky&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  
 
-Send it.
+Send it 🤙
